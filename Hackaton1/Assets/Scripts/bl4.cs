@@ -5,7 +5,7 @@ using UnityEngine;
 
 
 
-public class blockShema : MonoBehaviour
+public class bl4 : MonoBehaviour
 {
     private Vector3 screenPoint;
     private Vector3 offset;

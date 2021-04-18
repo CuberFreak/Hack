@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - first
+  - first (1)
+  - first (2)
+  - first (3)
+  - first (4)
+  - first (5)
+  - Pregrad
   layers:
   - Default
   - TransparentFX
@@ -38,6 +45,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: 1
+    uniqueID: 457243541
+    locked: 0
   - name: Background
     uniqueID: 3593029005
     locked: 0
